@@ -1,0 +1,10 @@
+.first {
+    color: white;
+    background: black;
+}
+
+.sketch {
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
